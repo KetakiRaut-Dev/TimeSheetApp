@@ -1,0 +1,118 @@
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+  background: white;
+}
+
+th {
+  background-color: #1f2d3d;
+  color: white;
+}
+
+td, th {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+input {
+  text-align: center;
+}
+
+tr:hover {
+  background-color: #f5f7fa;
+}
+
+.nav-item:hover {
+  background-color: #34495e;
+}
+
+.nav-item.active {
+  background-color: #007bff;
+}
+
+/* RESET */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+/* NAVBAR */
+.navbar {
+  background: #ffffff;
+  padding: 12px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.logo {
+  margin: 0;
+  color: #1f2d3d;
+}
+
+.navLinks {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #444;
+  font-weight: 500;
+}
+
+.navLink.active {
+  color: #007bff;
+}
+
+/* LOGOUT BUTTON */
+.logout {
+  padding: 6px 12px;
+  background: #ff4d4f;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* MAIN LAYOUT */
+.app {
+  display: flex;
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: 230px;
+  background: #1f2d3d;
+  color: #fff;
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sidebar a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.sidebar a.active {
+  background: #007bff;
+}
+
+/* CONTENT */
+.content {
+  flex: 1;
+  padding: 25px;
+  background: #f4f6f8;
+}
+
