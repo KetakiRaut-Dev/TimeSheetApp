@@ -8,12 +8,14 @@ It helps manage iterations, stories, tasks, and timesheets in a structured way.
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](<<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acf44133-b619-464d-84c1-ba6d78a2bdee" />
+![Dashboard](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/96e491cf-5375-4605-b7d3-cfcf21fbd067" />
+ />
 />
 )
 
 ### Iterations Page
-![Iterations](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3dead64c-5359-4f72-a727-599ed29cf34b" />
+![Iterations](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/079bd69b-a314-4047-b912-23a783919180" />
+>
 )
 
 ---
