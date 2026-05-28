@@ -8,7 +8,8 @@ It helps manage iterations, stories, tasks, and timesheets in a structured way.
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e1be4f9c-3be7-497f-8c70-6881acc098eb" />
+![Dashboard](<<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acf44133-b619-464d-84c1-ba6d78a2bdee" />
+/>
 )
 
 ### Iterations Page
