@@ -1,85 +1,129 @@
-# 🚀 Dev Team - Agile Tool (Timesheet App)
+# 🚀 Dev Team – Agile Management Tool
 
-A modern **Agile Project Management Tool** built using React.js.  
-It helps manage iterations, stories, tasks, and timesheets in a structured way.
-
----
-
-## 📸 Screenshots
-
-### Dashboard View
-![Dashboard](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/96e491cf-5375-4605-b7d3-cfcf21fbd067" />
- />
-/>
-)
-
-### Iterations Page
-![Iterations](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/079bd69b-a314-4047-b912-23a783919180" />
->
-)
+An interactive Agile project management application built with React.js to simplify sprint planning, task handling, and timesheet tracking.  
+The project focuses on creating a clean workflow for managing daily development activities in a user-friendly interface.
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 Project Highlights
 
-- React.js
-- JavaScript (ES6)
-- HTML5
-- CSS3
-- Bootstrap / Tailwind (if used)
-- Node.js (if backend added later)
-
----
-
-## ✨ Features
-
-- 📌 Add Iterations with start & end date
-- 📊 Track project timeline
-- 🧩 Manage Stories and Tasks
-- ⏱ Timesheet module UI
-- 📱 Responsive dashboard design
-- 🎯 Clean and user-friendly interface
+✨ Modern and responsive UI  
+📌 Sprint & iteration management  
+🧩 Story and task organization  
+⏱ Timesheet tracking module  
+📊 Dashboard for project overview  
+⚡ Fast and smooth user experience  
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| React.js | Frontend Development |
+| JavaScript (ES6) | Application Logic |
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Bootstrap / Tailwind CSS | UI Design |
+
+---
+
+## 📸 Application Screens
+
+### 🖥 Dashboard
+
+<img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/96e491cf-5375-4605-b7d3-cfcf21fbd067" />
+
+---
+
+### 📅 Iteration Management
+
+<img width="100%" alt="Iterations" src="https://github.com/user-attachments/assets/079bd69b-a314-4047-b912-23a783919180" />
+
+---
+
+## ✨ Core Features
+
+✅ Create and manage iterations  
+✅ Add stories and assign tasks  
+✅ Track work using timesheets  
+✅ Dashboard for project monitoring  
+✅ Responsive design for all devices  
+✅ Clean and organized project structure  
+
+---
+
+## 📂 Folder Structure
+
+```bash
 src/
 │
-├── assets/          # Images, icons, static files
-├── components/      # Reusable UI components
-├── pages/           # Main pages (Dashboard, Iterations, etc.)
-├── services/        # API calls and business logic
-├── utils/           # Helper functions
-├── styles/          # CSS files
-├── App.js           # Root component
-└── index.js         # Entry point
-🚀 Getting Started
+├── assets/
+├── components/
+├── pages/
+├── services/
+├── styles/
+├── utils/
+├── App.js
+└── index.js
+```
 
-Follow these steps to run the project locally:
+---
 
-1️⃣ Clone the repository
+# 🚀 Getting Started
+
+## 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/KetakiRaut-Dev/TimeSheetApp.git
-2️⃣ Install dependencies
+```
+
+## 2️⃣ Navigate to Project Folder
+
+```bash
+cd TimeSheetApp
+```
+
+## 3️⃣ Install Dependencies
+
+```bash
 npm install
-3️⃣ Start the development server
+```
+
+## 4️⃣ Run the Application
+
+```bash
 npm start
+```
 
-App will run at:
+---
 
+## 🌐 Local Development
+
+```bash
 http://localhost:3000
+```
 
-📌 Future Improvements
-🔐 Authentication (Login/Signup)
-🧑‍💼 Role-based access (Admin/User)
-📊 Export timesheets (PDF/Excel)
-🔗 Backend integration (Spring Boot / Node.js)
-🖱 Drag & drop task management
-👩‍💻 Author
+---
 
-Ketaki Raut
-📍 Nagpur, India
-💼 Aspiring Java Full Stack Developer
+## 🔮 Future Improvements
 
-⭐ Show Your Support
+- Authentication System
+- Role-Based Access Control
+- Backend Integration
+- Export Reports (PDF/Excel)
+- Drag & Drop Task Management
+- Advanced Analytics Dashboard
 
-If you like this project, please ⭐ the repository — it really helps!
+---
+
+## 👩‍💻 Developed By
+
+**Ketaki Raut**  
+Aspiring Java Full Stack Developer  
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
